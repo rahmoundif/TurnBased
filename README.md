@@ -1,4 +1,5 @@
 # TurnBased
+[![Status](https://img.shields.io/badge/status-active-brightgreen)]()
 
 A simple console game in C# where a player faces an enemy in a turn-based battle. Each participant can attack or heal on their turn. The game ends when either the player or the enemy's health drops to zero.
 
